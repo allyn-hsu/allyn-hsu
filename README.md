@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @allyn-hsu
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Hsu Sandy Hnin
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on more projects
+- 📫 How to reach me yuanallyn@gmail.com
+- 😄 Pronouns: Her
+- ⚡ Fun fact: I can translate to myanmar sub very well
 
 <!---
 allyn-hsu/allyn-hsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
